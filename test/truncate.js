@@ -1,4 +1,6 @@
 'use strict';
+/*global describe, beforeEach, it, describe, expect*/
+/*global module, inject*/
 
 describe('ngTruncate', function () {
 
